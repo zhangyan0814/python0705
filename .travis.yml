@@ -2,7 +2,7 @@ language: python
 python: 3.6
 
 script:
-  - python python_download.py
+  - python python_dowload.py
 
 notifications:
   email: false
